@@ -79,7 +79,7 @@ Rede social acadêmica desenvolvida para conectar estudantes e pesquisadores atr
 # 📫 Contato
 
 📧 Email: brenosilva2015_alves@yahoo.com  
-💼 LinkedIn: coloque_seu_link_aqui  
+💼 LinkedIn: https://www.linkedin.com/in/breno-alves-da-silva
 🐙 GitHub: https://github.com/brenosilva2015_alves
 
 ---
